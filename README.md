@@ -8,7 +8,7 @@ The goal is purely educational: to gain hands-on experience with offensive secur
 ⚠️ Intended for use in secure, isolated environments only (e.g., virtual machines).
 
 Built to learn. Not to harm.
-Tool DDoS:
+#Tool DDoS:
 
 git clone https://github.com/Nambel12/ToolDDoS.git
 cd ToolDDoS
