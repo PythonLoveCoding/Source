@@ -10,16 +10,24 @@ The goal is purely educational: to gain hands-on experience with offensive secur
 Built to learn. Not to harm.
 
 
-#Tool DDoS:
+# 🚀 Tool DDoS  
 
+## 📥 Installation
+```bash
 git clone https://github.com/Nambel12/ToolDDoS.git
 cd ToolDDoS
 pip install -r requirements.txt
 python3 ddos.py
+⚡ Information
+🔥 Includes 56 attack methods
 
+🛡️ Can bypass: Cloudflare, Google Shield, basic Anti-DDoS
 
+📌 Main repo: github.com/Nambel12
 
-
+⚠️ Note:
+👉 Do not clone from alt accounts since they don’t contain related files.
+👉 Use the main repo if you want the proper version.
 
 
 
